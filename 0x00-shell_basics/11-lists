@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -anFl . .. /boot
+ls -anl . .. -la /boot
